@@ -8,4 +8,3 @@ layout: default
 
 ### Please click <a href='https://github.com/Jmeza01/CS-499-Computer-Science-Capstone/tree/main/Data%20Structures%20and%20Algorithms'>Data Structures and Algorithms</a> to better understand the proposal enhancements that are important, so I went ahead and modified my Data Structures by applying new algorithms like the Sort() method to increase better performance which provide real-time results while using the Binary Search Tree (BST). In addition, I had to implement some new arrays to either sort the new elements found within a large data set and place the elements in nodes while they either bubble up or down from the structured tree. Therefore, by using association, I was able to use from the dataset given each object's identification number to find the correct output, but also accurate and expected results of the monthly sales from the large dataset of the company.
 
-ajf
