@@ -1,3 +1,4 @@
+layout: default
 # CS_499_Computer_Science_Capstone
 ### Please click <a href='https://github.com/Jmeza01/CS-499-Computer-Science-Capstone/blob/main/README.md'>Home Page</a> to better understand what are the most important and proud projects that I've built and continously developed over my Computer Science scholar years within the Bachelor's in Science Degree Program.
 
