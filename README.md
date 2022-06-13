@@ -1,4 +1,6 @@
-# CS_499_Computer_Science_Capstone
+##### <a href='https://github.com/Jmeza01/CS-499-Computer-Science-Capstone/blob/main/README.md'>Home Page</a> | <a href='https://youtu.be/gMsfGDs2b3Q'>Code Review</a> | <a href='https://github.com/Jmeza01/CS-499-Computer-Science-Capstone/tree/main/Software%20Engineering%20and%20Design%20Enhancements'>Software Engineering and Design Enhancements</a> | <a href='https://github.com/Jmeza01/CS-499-Computer-Science-Capstone/tree/main/Data%20Structures%20and%20Algorithms'>Data Structures and Algorithms</a>
+<img src="https://user-images.githubusercontent.com/79353961/173450253-69771495-2cb0-4717-bc30-5e2606b6a233.png"></img>
+## CS 499 - Computer Science Capstone 
 
 ### Please click <a href='https://github.com/Jmeza01/CS-499-Computer-Science-Capstone/blob/main/README.md'>Home Page</a> to better understand what are the most important and proud projects that I've built and continously developed over my Computer Science scholar years within the Bachelor's in Science Degree Program.
 
