@@ -1,2 +1,5 @@
 layout: default
 theme: jekyll-theme-hacker
+# SITE CONFIGURATION
+baseurl: ""
+url: "https://ian-goode.github.io"
