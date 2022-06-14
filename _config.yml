@@ -1,4 +1,4 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: ""
+url: "https://jmeza01.github.io/CS-499_Computer_Science_Capstone/"
 theme: jekyll-theme-hacker
