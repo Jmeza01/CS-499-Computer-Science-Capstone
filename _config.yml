@@ -1,4 +1,4 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://ian-goode.github.io"
+url: ""
 theme: jekyll-theme-hacker
